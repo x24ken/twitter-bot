@@ -1,1 +1,1 @@
-twitter-botで遊ぶ
+twitter-bot
